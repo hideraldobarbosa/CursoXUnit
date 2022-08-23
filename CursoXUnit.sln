@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoXUnit.DominioTest", "tests\CursoXUnit\CursoXUnit.DominioTest.csproj", "{884E530B-BE38-4DC8-B8C7-1FA618044ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoXUnit.Dominio", "src\CursoXUnit.Dominio\CursoXUnit.Dominio.csproj", "{71817C95-74B3-4708-8504-14CB65497E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{884E530B-BE38-4DC8-B8C7-1FA618044ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884E530B-BE38-4DC8-B8C7-1FA618044ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{884E530B-BE38-4DC8-B8C7-1FA618044ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{884E530B-BE38-4DC8-B8C7-1FA618044ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71817C95-74B3-4708-8504-14CB65497E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71817C95-74B3-4708-8504-14CB65497E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71817C95-74B3-4708-8504-14CB65497E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71817C95-74B3-4708-8504-14CB65497E77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {461EDE42-37BB-435E-9360-AAA40B0F5183}
+	EndGlobalSection
+EndGlobal
